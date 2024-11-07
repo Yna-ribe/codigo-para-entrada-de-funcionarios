@@ -11,4 +11,4 @@ if(cargo_do_funcionario == 'gerente'):
 elif(dia_da_semana == 'sabado' or dia_da_semana == 'domingo'):
     print("Acesso negado", cargo_do_funcionario)
 else:
-    print ('Acesso permitido',cargo_do_funcionario)
+    print('Acesso permitido',cargo_do_funcionario)
